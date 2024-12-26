@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="1684" height="2034">
+	<SubTexture name="Idle00" x="840" y="485" width="306" height="467" frameX="-138" frameY="-166" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle01" x="335" y="1581" width="359" height="444" frameX="-104" frameY="-189" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle02" x="697" y="1542" width="373" height="437" frameX="-96" frameY="-196" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle03" x="1" y="1581" width="331" height="452" frameX="-122" frameY="-181" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle04" x="1202" y="950" width="320" height="455" frameX="-128" frameY="-178" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle05" x="889" y="955" width="310" height="463" frameX="-135" frameY="-170" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle06" x="840" y="485" width="306" height="467" frameX="-138" frameY="-166" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Idle07" x="840" y="485" width="306" height="467" frameX="-138" frameY="-166" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Left08" x="403" y="569" width="434" height="485" frameX="-7" frameY="-141" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Left09" x="1258" y="1" width="425" height="479" frameX="-52" frameY="-147" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Left10" x="1258" y="483" width="405" height="464" frameX="-68" frameY="-162" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Down11" x="1202" y="1408" width="319" height="225" frameX="-168" frameY="-409" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Down12" x="1073" y="1636" width="302" height="236" frameX="-175" frameY="-398" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Down13" x="1378" y="1636" width="274" height="286" frameX="-185" frameY="-348" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Up14" x="1" y="1" width="368" height="577" frameX="-105" frameY="-49" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Up15" x="372" y="1" width="375" height="565" frameX="-110" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Up16" x="1" y="581" width="399" height="511" frameX="-87" frameY="-120" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right17" x="750" y="1" width="505" height="481" frameX="-135" frameY="-148" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right18" x="428" y="1057" width="458" height="482" frameX="-131" frameY="-148" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right19" x="1" y="1095" width="424" height="483" frameX="-109" frameY="-148" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

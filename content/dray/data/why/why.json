@@ -1,0 +1,17 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "stage",
+		"player1": "beefgal",
+		"player2": "drayguy",
+		"events": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 127,
+		"arrowSkin": "default",
+		"needsVoices": true,
+		"keys": 4,
+		"song": "why"
+	}
+}
