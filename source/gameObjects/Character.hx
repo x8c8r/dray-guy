@@ -428,6 +428,10 @@ class Character extends FlxSprite
 		specialAnim = false;
 		animation.play(AnimName, Force, Reversed, Frame);
 
+		// DRAY SPIN RESET
+		if (curCharacter == "drayguy" && !AnimName.startsWith("idle"))
+			angle = 0;
+
 		var daOffset = animOffsets.get(AnimName);
 		if (animOffsets.exists(AnimName))
 		{

@@ -5350,6 +5350,16 @@ class PlayState extends MusicBeatState
 		iconP1.updateHitbox();
 		iconP2.updateHitbox();
 
+		// DRAY SPIN ICON
+		if (iconP1.getCharacter() == "drayguy") iconP1.angle = iconP1.angle + 90 % 360;
+		if (iconP2.getCharacter() == "drayguy") iconP2.angle = iconP2.angle + 90 % 360;
+
+		// // DRAY SPIN
+		// if (dad.curCharacter == "drayguy")
+		// 	dad.angle = dad.angle + 90 % 360;
+		// if (boyfriend.curCharacter == "drayguy")
+		// 	boyfriend.angle = boyfriend.angle + 90 % 360;
+
 		if (gf != null && curBeat % Math.round(gfSpeed * gf.danceEveryNumBeats) == 0 && gf.animation.curAnim != null && !gf.animation.curAnim.name.startsWith("sing") && !gf.stunned)
 		{
 			gf.dance();

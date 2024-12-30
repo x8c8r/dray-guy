@@ -57,6 +57,9 @@ class HealthIcon extends FlxSprite
 			if(char.endsWith('-pixel')) {
 				antialiasing = false;
 			}
+
+			// DRAY SPIN ICON RESET
+			angle = 0;
 		}
 	}
 
