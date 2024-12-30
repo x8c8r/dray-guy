@@ -1,0 +1,10 @@
+{
+    "card" : {
+        "name" : "why",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["PoeDev"]
+    }
+}
